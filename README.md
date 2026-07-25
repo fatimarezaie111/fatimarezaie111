@@ -13,7 +13,7 @@ I am a passionate Developer focused on building clean, efficient, and user-centr
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend** | `HTML5` `CSS3` `JavaScript` `React.js` |
-| **Backend** | `Laravel` `Mysql` |
+| **Backend** | `Laravel` `Mysql` `PHP` |
 | **Database** | `PostgreSQL` |
 | **Tools & Devops** | `Git` `GitHub` `VS Code` `Postman` |
 
