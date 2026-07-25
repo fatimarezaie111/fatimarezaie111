@@ -22,9 +22,9 @@ I am a passionate Developer focused on building clean, efficient, and user-centr
 <p align="left">
   <a href="mailto:rezaief41@gmail.com" target="_blank">
    Email:rezaief41@gmail.com
-  </a>
+  </a> |
   <a href="https://www.linkedin.com/in/fatima-rezaie-722063423/" target="_blank">
-   Linkedin    
+   Linkedin:https://www.linkedin.com/in/fatima-rezaie-722063423/   
   </a>
 </p>
 
