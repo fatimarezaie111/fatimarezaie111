@@ -36,11 +36,12 @@ I am a passionate Developer focused on building clean, efficient, and user-centr
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:rezaief41@gmail.com" target="_blank">
     <img src="https://shields.io" alt="Email" />
   </a>
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/fatima-rezaie-722063423/" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
 </p>
+
 
