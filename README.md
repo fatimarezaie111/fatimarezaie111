@@ -3,7 +3,7 @@
 I am a passionate Developer focused on building clean, efficient, and user-centric digital experiences. Constantly exploring new technologies and dedicated to writing maintainable code.
 
 - 🔭 **Currently working on:** [an Ecommerce platform]
-- 🌱 **Currently learning:** [Next.js and laravel]
+- 🌱 **Currently learning:** [Next.js and Laravel]
 - 💬 **Ask me about:** JavaScript, frontend frameworks, or UI design
 
 ---
